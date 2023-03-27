@@ -1,4 +1,4 @@
-Hi! I'm Ignacio and I'm from Argentina.
+Hi! I'm Ignacio and I'm living in Aarhus, Danmark.
 I'm a fullstack .NET developer with knowledge in Angular.
 
 In my former job, I was working in a middleware made in .NET 6 with Azure Functions and APIs. Also, making use of Angular and SQL Server.
